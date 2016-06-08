@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AgePubli</string>
+    <string name="title_section1">Restaurantes</string>
+    <string name="title_section2">Bares</string>
+    <string name="title_section3">Medicina</string>
+    <string name="title_section4">Belleza</string>
+    <string name="title_section5">Hoteles</string>
+    <string name="title_section6">Servicios Profesionales</string>
+    <string name="title_section7">Servicios Locales</string>
+    <string name="title_section8">Automobiles</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">Example action</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_dia_hora">Horas</string>
+    <string name="hello_world">Hello world!</string>
+
+    <string-array name="Planets">
+        <item>Sun</item>
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Mars</item>
+        <item>Jupiter</item>
+        <item>Saturn</item>
+        <item>Uranus</item>
+        <item>Neptune</item>
+    </string-array>
+
+    <string-array name="medicina">
+        <item>Dr alfonso</item>
+        <item>Pediatra Chabelo</item>
+        <item>Ginecologa Siris</item>
+        <item>DrGral Mejor sano</item>
+        <item>El pie feliz</item>
+    </string-array>
+
+</resources>
